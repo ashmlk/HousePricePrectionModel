@@ -7,7 +7,7 @@ Throughout this model we do the following steps:
   3. Impute missing data and cleaning them.
   4. Feature tranformation and engineering to fit the model for prediction.
   5. Applying both classification and regression techniques to find the accuracy of each model.\
-P.S: Stacking the models will be added to the program soon.
+P.S: Stacking the models will be added to the program soon.\
 Data is from: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data 
 \
 \
