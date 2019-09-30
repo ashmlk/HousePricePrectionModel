@@ -1,6 +1,6 @@
 # HousePricePrectionModel
 This model is focus on building a model for predicting  house prices based on numerous feature.
-House prices change not on by their size or number of rooms but we can observe that a lot of other factors can change the house price.
+House prices change not only by their size or number of rooms but we can observe that a lot of other factors can change the house price.
 Throughout this model we do the following steps:
   1. Observing data, its features, columns and length.
   2. Annalyzing the test variable(SalePrice), by finding the correlation of data and finding the top 60%
