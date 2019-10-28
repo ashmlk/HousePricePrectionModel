@@ -11,7 +11,6 @@ P.S: Stacking the models will be added to the program soon.\
 Data is from: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data 
 \
 \
-Please note that the code has been written by executing each line of code simultaneously and retrieving relevant data.\
 \
 Please keep in mind that for predicting the prices, we have a seller and a buyer that the data hs to represent house price in favor of each differently. For instance, a seller will want to sell the price as much as possible there finding all features that can increse the price will be important. 
 On the other hand, the buyer will want to know have much each feature effects the sale price and that the money they will be paying will be worth it.
